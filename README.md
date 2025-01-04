@@ -43,7 +43,7 @@ The CodeTour prompts developers to write comments and lines of code that trigger
 
 Now, let's prompt Copilot to import the random module. Write this comment `# import random module` on the next line. Press enter to create a new line and accept Copilot's suggestion.
 
-<img width="1429" alt="Screen Shot 2023-03-03 at 6 58 46 AM" src="https://user-images.githubusercontent.com/22990146/222715309-72f40d08-e94f-438a-9719-cf0d14a2aebb.png">
+<img width="1429" alt="Screen Shot 2025-01-03 at 6 58 46 AM" src="https://user-images.githubusercontent.com/22990146/222715309-72f40d08-e94f-438a-9719-cf0d14a2aebb.png">
 
 
 3. Now, let's prompt Copilot to create a main function that handles the logic of the game with a comment that says `# define main function that handles all the logic`. Press enter to create a new line and accept Copilot's suggestion. 
